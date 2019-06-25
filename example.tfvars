@@ -1,0 +1,6 @@
+access_key = "< You AWS access_key >"
+secret_key = "< You AWS secret_key >"
+domain     = "chavo.eu"
+token      = "your-api-key"
+email      = "you@example.com"
+name       = "nginx"

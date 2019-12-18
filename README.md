@@ -15,5 +15,6 @@ $ terraform init
 $ terraform plan
 $ terraform apply
 ```
-- Do not forget to destroy the environment
+- Now you should be able to access the instance on 'nginx.chavo.eu'(on your registered domain)
+## Do not forget to destroy the environment
 
